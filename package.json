@@ -1,4 +1,5 @@
 {
+  "homepage": "https://liamm14.github.io/battle-sim",
   "name": "battle-sim",
   "version": "0.1.0",
   "private": true,
@@ -22,7 +23,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -43,6 +46,7 @@
     ]
   },
   "devDependencies": {
-    "@types/material-ui": "^0.21.8"
+    "@types/material-ui": "^0.21.8",
+    "gh-pages": "^3.1.0"
   }
 }
