@@ -1,0 +1,14 @@
+.attack-message-enter {
+  opacity: 0;
+}
+.attack-message-enter-active {
+  opacity: 1;
+  transition: opacity 200ms ease-in;
+}
+.attack-message-exit {
+  opacity: 1;
+}
+.attack-message-exit-active {
+  opacity: 0;
+  transition: opacity 200ms ease-in;
+}
