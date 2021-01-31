@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/battle-sim/static/css/main.ae864bbf.chunk.css",
-    "main.js": "/battle-sim/static/js/main.cba339c3.chunk.js",
-    "main.js.map": "/battle-sim/static/js/main.cba339c3.chunk.js.map",
+    "main.js": "/battle-sim/static/js/main.3ab287b9.chunk.js",
+    "main.js.map": "/battle-sim/static/js/main.3ab287b9.chunk.js.map",
     "runtime-main.js": "/battle-sim/static/js/runtime-main.84917e48.js",
     "runtime-main.js.map": "/battle-sim/static/js/runtime-main.84917e48.js.map",
     "static/js/2.b8cf5d2d.chunk.js": "/battle-sim/static/js/2.b8cf5d2d.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.84917e48.js",
     "static/js/2.b8cf5d2d.chunk.js",
     "static/css/main.ae864bbf.chunk.css",
-    "static/js/main.cba339c3.chunk.js"
+    "static/js/main.3ab287b9.chunk.js"
   ]
 }
