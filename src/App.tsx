@@ -47,7 +47,7 @@ const useStyles = makeStyles((theme) => ({
   },
   healthRoot: {
     width: 100,
-    height: "60%",
+    height: 440,
     display: "flex",
     flexDirection: "column",
     justifyContent: "space-between",
