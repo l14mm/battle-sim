@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/battle-sim/static/css/main.ae864bbf.chunk.css",
+    "main.js": "/battle-sim/static/js/main.cba339c3.chunk.js",
+    "main.js.map": "/battle-sim/static/js/main.cba339c3.chunk.js.map",
+    "runtime-main.js": "/battle-sim/static/js/runtime-main.84917e48.js",
+    "runtime-main.js.map": "/battle-sim/static/js/runtime-main.84917e48.js.map",
+    "static/js/2.b8cf5d2d.chunk.js": "/battle-sim/static/js/2.b8cf5d2d.chunk.js",
+    "static/js/2.b8cf5d2d.chunk.js.map": "/battle-sim/static/js/2.b8cf5d2d.chunk.js.map",
+    "static/js/3.aefd7a61.chunk.js": "/battle-sim/static/js/3.aefd7a61.chunk.js",
+    "static/js/3.aefd7a61.chunk.js.map": "/battle-sim/static/js/3.aefd7a61.chunk.js.map",
+    "index.html": "/battle-sim/index.html",
+    "static/css/main.ae864bbf.chunk.css.map": "/battle-sim/static/css/main.ae864bbf.chunk.css.map",
+    "static/js/2.b8cf5d2d.chunk.js.LICENSE.txt": "/battle-sim/static/js/2.b8cf5d2d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84917e48.js",
+    "static/js/2.b8cf5d2d.chunk.js",
+    "static/css/main.ae864bbf.chunk.css",
+    "static/js/main.cba339c3.chunk.js"
+  ]
+}
