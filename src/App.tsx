@@ -8,6 +8,7 @@ import {
   responsiveFontSizes,
 } from "@material-ui/core";
 import Header from "./components/Header";
+import { DiceRoll } from "./store/types";
 
 const themeLight = responsiveFontSizes(
   createMuiTheme({
@@ -28,11 +29,17 @@ const themeDark = responsiveFontSizes(
 const useStyles = makeStyles((theme) => ({
 }));
 
+const rollDice = () => {
+  return Math.ceil(Math.random() * 6) as DiceRoll;
+};
+
 export default function App() {
 
   const [isThemeLight, setTheme] = React.useState(false);
   const toggleTheme = () => setTheme(!isThemeLight);
 
+  console.log(rollDice())
+  
   return (
     <MuiThemeProvider theme={isThemeLight ? themeLight : themeDark}>
       <CssBaseline />
